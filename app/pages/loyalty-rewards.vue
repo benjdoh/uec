@@ -1,0 +1,1 @@
+<template>loyalty rewards</template>
